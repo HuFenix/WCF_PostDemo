@@ -1,0 +1,5 @@
+E:\Fenix\MyGitHubProjects\HttpContext_WCFDemo\HttpContext_WCFDemo\WCFService\bin\WCFService.dll.config
+E:\Fenix\MyGitHubProjects\HttpContext_WCFDemo\HttpContext_WCFDemo\WCFService\bin\WCFService.dll
+E:\Fenix\MyGitHubProjects\HttpContext_WCFDemo\HttpContext_WCFDemo\WCFService\bin\WCFService.pdb
+E:\Fenix\MyGitHubProjects\HttpContext_WCFDemo\HttpContext_WCFDemo\WCFService\obj\Debug\WCFService.dll
+E:\Fenix\MyGitHubProjects\HttpContext_WCFDemo\HttpContext_WCFDemo\WCFService\obj\Debug\WCFService.pdb

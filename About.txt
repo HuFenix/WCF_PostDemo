@@ -1,0 +1,6 @@
+WCF 使用Post 发送http请求进行通信实例
+
+包括
+WCF http通信时Webconfig配置文件， 
+.net下带参数与不带参数的Post请求实例
+httpHeader中如何增加自定义参数
